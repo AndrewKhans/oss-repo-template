@@ -17,3 +17,4 @@ A suggestion I have for How To Answer Questions in a Helpful Way is to be more e
 Another suggestion I have for the article is to make sure to mention that not all discussion boards have the same culture. Asking a technical question on a more casual forum will generally be more forgiving to beginner questions, so these are better places to begin. Other boards may have a userbase of experts, that are less-likely to be friendly to simple and poorly-phrased questions. 
 
 ## 3. Free Culture Chapter 3 Summary
+
