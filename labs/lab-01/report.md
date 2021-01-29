@@ -3,3 +3,10 @@
 ## 1. Discord Message
 
 ![Alt text](https://i.gyazo.com/8e409d779878a5b6c842a4c3da08203e.png)
+
+## 2. Reading Assignments Reflections
+
+### Open Source Definition
+
+
+## 3. Free Culture Chapter 3 Summary
