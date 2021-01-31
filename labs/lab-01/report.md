@@ -30,7 +30,7 @@ Screenshot of <code>man tree</code>, in WSL:
 ## 4. Regex
 
 ### - RegexOne practice problems: 7 completed
-Screenshots of each solution are linked below:
+Screenshots of each of my solutions are linked below:
 
-Problem 1: https://gyazo.com/533fc344967523b05e3ef8eea34c14e2
 [Problem 1](https://gyazo.com/533fc344967523b05e3ef8eea34c14e2)
+[Problem 2](https://gyazo.com/72ebc38b4f3ea3ab554b3cf4abb67125)
