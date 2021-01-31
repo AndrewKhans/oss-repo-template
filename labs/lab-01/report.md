@@ -35,3 +35,13 @@ Screenshots of each of my solutions are linked below:
 [Problem 1](https://gyazo.com/533fc344967523b05e3ef8eea34c14e2)
 
 [Problem 2](https://gyazo.com/72ebc38b4f3ea3ab554b3cf4abb67125)
+
+[Problem 3](https://gyazo.com/84ef3eaf98a2749338406a49b683b648)
+
+[Problem 4](https://gyazo.com/3ea0578c6c50b0617a416ad8d0fa7fa2)
+
+[Problem 5](https://gyazo.com/677f4eb9a9e7e20741d1c73db6a14a38)
+
+[Problem 6](https://gyazo.com/584b4d4302a136b7655e9eb714deec30)
+
+[Problem 7](https://gyazo.com/cfe9260aa5e1552f3f661e330f0b1e67)
