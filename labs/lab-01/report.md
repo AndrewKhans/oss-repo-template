@@ -21,3 +21,8 @@ Chapter 3 of Free Culture shows the danger of our outdated legal system when app
 
 ### - Beautiful Code Chapter 1
 I read the chapter, but nothing is to be recorded on it.
+
+## 3. Linux
+Screenshot of <code>man tree</code>:
+
+![Alt text](https://i.gyazo.com/63918d25678878df42df6e2b5d379f18.png)
