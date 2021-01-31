@@ -29,7 +29,7 @@ Screenshot of <code>man tree</code>, in WSL:
 
 ## 4. Regex
 
-### - RegexOne practice problems: 7 completed
+### - 7 Completed RegexOne Practice Problems:
 Screenshots of each of my solutions are linked below:
 
 [Problem 1](https://gyazo.com/533fc344967523b05e3ef8eea34c14e2)
@@ -45,3 +45,26 @@ Screenshots of each of my solutions are linked below:
 [Problem 6](https://gyazo.com/584b4d4302a136b7655e9eb714deec30)
 
 [Problem 7](https://gyazo.com/cfe9260aa5e1552f3f661e330f0b1e67)
+
+
+### - 4 Completed Regex Crossword Puzzles
+Screenshots of each of my solutions are linked below:
+
+[Problem 1](https://gyazo.com/0d6bdb34032b3fca7f4f89c58ba4af8d)
+
+[Problem 2](https://gyazo.com/09f35e728781c6685a8a670d06a7eb5e)
+
+[Problem 3](https://gyazo.com/bc02d40d2457ec683999522c8542c786)
+
+[Problem 4](https://gyazo.com/6c370a50fed3e9a413624772db572179)
+
+## 5. Solving Maze with Blockly
+My solution always hugged the left wall, so that it eventually reached the goal. Linked below is the success screen.
+
+[Solution](https://gyazo.com/2432e3a6439bab19b5f3ef72da6d6070)
+
+## 6. Reflection
+
+As mods for the game "Minecraft" are what sparked my interest in computer science, I am highly interested in making an open-source mod for the game. An early mod that I played with added computers and robots to the game, which was an incredibly fun way to learn the basics of programming. I would like to make a mod that educates players in a similar way: immersing them in a practical subject while they play the game.
+
+There are over 55,000 mods for Minecraft made by individuals and teams, with the majority of them being open-source with repositories on GitHub. The mods are made using Java and include JSON files, images, and audio clips. They add content to the game and can educate players on a variety of topics. I have worked on a [Minecraft mod](https://github.com/AndrewKhans/Music-Magic) in the past, so I am acquainted with the process of developing a mod for the game. If I can find other members of OSS that are also interested in making a mod, I will certainly discuss ideas with them to see if we'd be able to collaborate on a project.
