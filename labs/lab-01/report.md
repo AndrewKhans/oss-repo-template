@@ -33,3 +33,4 @@ Screenshot of <code>man tree</code>, in WSL:
 Screenshots of each solution are linked below:
 
 Problem 1: https://gyazo.com/533fc344967523b05e3ef8eea34c14e2
+[Problem 1](https://gyazo.com/533fc344967523b05e3ef8eea34c14e2)
