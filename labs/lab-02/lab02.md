@@ -1,4 +1,4 @@
-## Link to lab 2 repository
+## Link to Lab 2 Part 1 GitHub repository
 https://github.com/AndrewKhans/lab2part1
 
 ## Visulizing the Branching Diagram
