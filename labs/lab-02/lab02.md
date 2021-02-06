@@ -6,7 +6,7 @@ https://github.com/AndrewKhans/lab2part1
 ### Branching diagram using <code>gitk</code>
 ![alt text](https://i.gyazo.com/6fef6fed5009c1567b426fab781983a4.png)
 
-### Branching diagram using <code>gitk</code>
+### Branching diagram using <code>gitk --all</code>
 ![alt text](https://i.gyazo.com/19bb7b39fa5833c1c3c63e30344f8540.png)
 
 ### Branching diagram using <code>git log --graph --oneline --decorate</code>
