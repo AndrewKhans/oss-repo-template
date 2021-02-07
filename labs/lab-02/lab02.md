@@ -25,7 +25,7 @@ https://github.com/AndrewKhans/Spoon-Knife
 
 
 ## First four levels of Lean Git Branching complete
-https://gyazo.com/739ac4ee7d4c5acc351ad5c62f1b589c
+![alt text](https://i.gyazo.com/739ac4ee7d4c5acc351ad5c62f1b589c.png)
 
 
 # Part 3
