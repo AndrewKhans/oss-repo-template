@@ -9,3 +9,4 @@
 
 ## Projects
 
+<Talk about the differences between github and gitstats's numbers>
