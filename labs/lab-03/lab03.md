@@ -8,5 +8,7 @@
 # Part 2
 
 ## Projects
+Details on each RCOS project here:
+https://docs.google.com/document/d/1ba5yExqEPxpVeJ9VadcYCiYgZS4C0YgzuyApd5GrQSo/edit?usp=sharing
 
-<Talk about the differences between github and gitstats's numbers>
+In general, Gitstats seems to agree with manual checking in terms of the number of contributors, the first commit, and the latest commit. However, results differ when looking at the total lines of code in the project, with Gitstats' calculation being lower than ours. This may be due to Gitstats ignoring certain files that we do not ignore when checking manually from the command line.
