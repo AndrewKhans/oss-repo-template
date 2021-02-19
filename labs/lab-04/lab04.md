@@ -9,3 +9,17 @@ Without an explicit license, there is more ambiguity on how copyright law will b
 
 ## Why the Web Beat Gopher: Failure to follow the Open System Model
 I agree with the claim that failing to be an open system contributed to the fall of Gopher. In addition to the fact that being an open project allows for development from a larger amount of developers and promotes the integration of more user-feedback, open projects are generally more likely to be preferred by hackers. As hackers made up a large portion of early adopters of the internet, it makes sense that the project with the support of the general hacker population ends up winning out over the more-proprietary project.
+
+## Android Uses the Apache License 2.0 and It's Kernel Uses Gpl V2
+According to https://source.android.com/setup/start/licenses, Android uses the Apache License because allows for manufacturers of Android devices to make open and modifiable mobile devices, but it doesn't require them to do so. Since the license is the most permissive for manufacturers, it gives the operating system a competitive edge over iOS. However, due to the fact that Android uses Linux as its kernel, its kernel code is under the GPL v2 license. As they are not the creators of Linux, they do not have the ability to change the license of it.
+
+## Made-up Project and Business Model
+
+## RCOS Project Table
+Website | License Present | License
+---------|:----------|:-------
+https://github.com/albmej/ai-gym-tracker | Yes | MIT License
+https://github.com/rpi-alpaca/alpaca | Yes | MIT License
+https://github.com/kaijianz/alvitr | Yes | MIT License
+https://github.com/tdurkin18/anagrams | Yes | GNU General Public License
+https://github.com/anchor-site/anchor | Yes | MIT License
