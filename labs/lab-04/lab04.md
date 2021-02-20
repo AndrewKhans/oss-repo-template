@@ -13,7 +13,8 @@ I agree with the claim that failing to be an open system contributed to the fall
 ## Android Uses the Apache License 2.0 and It's Kernel Uses Gpl V2
 According to https://source.android.com/setup/start/licenses, Android uses the Apache License because allows for manufacturers of Android devices to make open and modifiable mobile devices, but it doesn't require them to do so. Since the license is the most permissive for manufacturers, it gives the operating system a competitive edge over iOS. However, due to the fact that Android uses Linux as its kernel, its kernel code is under the GPL v2 license. As they are not the creators of Linux, they do not have the ability to change the license of it.
 
-## Made-up Project and Business Model
+## VERY SERIOUS Made-up Project and Business Model
+https://github.com/tremps/EstimatePi
 
 ## RCOS Project Table
 Website | License Present | License
