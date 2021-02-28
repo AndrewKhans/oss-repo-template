@@ -127,4 +127,4 @@ target_include_directories(Tutorial PUBLIC
 ```
 
 ### Running Tutorial code with no input, 10, and 4294967296
-![alt text](https://i.gyazo.com/c17c7c2a6767d920ddad7b1bf70fd016.png)
+![alt text](https://i.gyazo.com/1275b42daa2e6801259eefb7cd23c987.png)
