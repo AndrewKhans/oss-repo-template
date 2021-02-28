@@ -413,4 +413,5 @@ https://pastebin.com/R26DPYwk
 ## Relative Size of the Two Executables
 
 ![alt text](https://i.gyazo.com/456f90e8c88d63145a62a82ef67d354e.png)
+
 These are always the executable sizes, whether they are generated using the my Makefile or the CMake-Generated one. 
