@@ -375,7 +375,7 @@ install(FILES MathFunctions.h DESTINATION include)
 ```
 all: static_block dynamic_block
 clean:
-# 	rm *.o *.a *.so static_block dynamic_block
+ 	rm *.o *.a *.so static_block dynamic_block
 static_block: program.o libblock.a
 	cc program.o libblock.a -o static_block
 dynamic_block: program.o libblock.so
