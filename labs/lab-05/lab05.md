@@ -174,3 +174,17 @@ target_include_directories(MathFunctions
 ```
 ### Running Tutorial code with no input, 10, and 4294967296
 ![alt text](https://i.gyazo.com/ac1b4e3a77a19ae4fd0442b0ec771558.png)
+
+## Step 4
+### Modified CMakeLists.txt
+### Modified MathFunctions/CMakeLists.txt
+### Running ctest -VV (I set DUSE_MYMATH=OFF since it made the output much more compact)
+#### Tests 1-6
+![alt text](https://i.gyazo.com/7cfc5ed0808993003ee96bfe3b64065b.png)
+#### Tests 7-9
+![alt text](https://i.gyazo.com/828f223f43c93ae9843cdf8241254e7a.png)
+
+## Step 5
+### Modified CMakeLists.txt
+### Modified MathFunctions/CMakeLists.txt
+### Running Tutorial code for the USE_MYMATH case with no input, 10, and 4294967296
