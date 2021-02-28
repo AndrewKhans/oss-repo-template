@@ -1,4 +1,4 @@
-# Steps 1-5 of CMake's Tutorial
+# Part 1: Steps 1-5 of CMake's Tutorial
 ## Step 1
 ### Modified tutorial.cxx
 ```
