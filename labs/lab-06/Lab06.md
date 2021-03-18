@@ -165,7 +165,7 @@ Shortest path between pound and marks is
 None
 ```
 
-# Part 2
+# Part 2: Four Letter Words
 ## Code
 ```python
 """
@@ -289,7 +289,7 @@ Shortest path between make and take is
 make
 take
 ```
-# Part 3
+# Part 3: Word Matching Without Order
 ## Code
 ```python
 """
