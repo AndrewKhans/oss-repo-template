@@ -7,3 +7,11 @@
 
 ## Screenshot from my Terminal, Showing Successful Tests
 ![alt text](https://i.gyazo.com/7cdbb596343f68edb80eb3057c9f36ad.png)
+
+
+# Checkpoint 3: Failing/Passing a Test
+
+## Screenshot of the failed test
+![alt text](https://i.gyazo.com/2c0da592849727f4271bce82e46c939a.png)
+
+## 
