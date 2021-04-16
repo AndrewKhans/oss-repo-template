@@ -70,3 +70,36 @@ pprint.pprint(definitions.find_one({"word":"Doge"}))
 
 
 # Checkpoint 5
+
+## Code
+```python
+import pymongo
+from pymongo import MongoClient
+import pprint
+import random
+import datetime
+
+client = MongoClient()
+database = client.mongo_db_lab
+definitions = database.definitions
+
+entireDatabase = definitions.find()
+
+asList = list(entireDatabase)
+
+word = asList[random.randint(0, len(asList))]
+
+print('\nrandom word:')
+
+now = datetime.datetime.today().isoformat(':')
+definitions.update_one({"word":word['word']},{"$push":{"dates":now}})
+
+pprint.pprint(definitions.find_one({"word":word['word']}))
+```
+
+## Running the python script
+![text](https://i.gyazo.com/8772f9fd3bf95482ba9962c2ffe6642d.png)
+
+## Finding the duplicate word
+
+![text](https://i.gyazo.com/f192a032599ecba635c974680776ba1c.png)
