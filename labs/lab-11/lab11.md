@@ -49,12 +49,8 @@ Prediction:  T-shirt/top
 <img src="https://i.gyazo.com/596b79711feed77d234174ac81567abb.png" alt="image" width="200"/>
 
 ### Classification Result
-[[5.10053635e-01 5.59813088e-05 5.46065606e-02 6.44419342e-03
-  1.26873655e-02 5.20058904e-07 4.02082801e-01 7.27073370e-08
-  1.40627762e-02 6.10420102e-06]]
-Prediction:  T-shirt/top
+[[7.5906985e-16 4.9073923e-25 6.7610712e-17 1.6680557e-28 8.4868269e-23
+  1.7390087e-28 2.0800757e-12 1.4432891e-22 1.0000000e+00 1.6853657e-18]]
+Prediction:  Bag
 
-
-
-
-Classifier did not work as well with the video-game items
+The model guessed 1 out of the 3 items correct. It seems like video game items (things with a cartoon style) may be harder for the model, as it was not trained on images that looked similar to these. However, I am still surprised that it was incorrect when classifying the Iron Pants, as these seem like any generic pair of pants from the dataset. It could be related to the fact that the image's resolution appears to be lower than the other images, despite the fact that it's a 28x28 image file.
